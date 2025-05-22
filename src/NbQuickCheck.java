@@ -2,7 +2,7 @@ import java.util.List;
 import java.util.Map;
 
 public class NbQuickCheck {
-//
+//Im pretty sure I needed to use a stack to check each level for the second problem but I forgot the process
   /**
    * Performs a pre-order traversal of the tree, printing each node on a separate line.
    * Does nothing if the root is not present in the tree.
